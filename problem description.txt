@@ -1,0 +1,10 @@
+Author: mark sikaundi
+i have all the packages installed but am unable to run the app
+am using npm not yarn
+--------------------
+commands used
+npm start---giving error
+expo start-----
+---------------------
+sikaundimarkgmail.com
+you can email me here
